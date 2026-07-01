@@ -1,2 +1,2 @@
 # github
-github practice
+github command practice
